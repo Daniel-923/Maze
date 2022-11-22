@@ -21,7 +21,10 @@ https://user-images.githubusercontent.com/81403841/202257219-e17c69a4-9406-4944-
 
 
 ## Contributor
-![image](https://user-images.githubusercontent.com/81403841/202258277-4379748d-c44c-47e7-8b0c-27ecaf04c1e7.png)
+![image](https://user-images.githubusercontent.com/81403841/203333269-1d774b9b-badd-409c-89fa-513b07049fed.png)
 
 
+
+## Performance
+2022 평택대학교 스마트콘텐츠 학술제 2
 
