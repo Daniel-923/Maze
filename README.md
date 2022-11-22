@@ -21,7 +21,8 @@ https://user-images.githubusercontent.com/81403841/202257219-e17c69a4-9406-4944-
 
 
 ## Contributor
-![image](https://user-images.githubusercontent.com/81403841/203333269-1d774b9b-badd-409c-89fa-513b07049fed.png)
+![image](https://user-images.githubusercontent.com/81403841/203334609-3e95d319-7c33-40a3-83f7-abb10904ba9c.png)
+
 
 
 
