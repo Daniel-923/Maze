@@ -26,5 +26,5 @@ https://user-images.githubusercontent.com/81403841/202257219-e17c69a4-9406-4944-
 
 
 ## Performance
-2022 평택대학교 스마트콘텐츠 학술제 2
+2022 평택대학교 스마트콘텐츠 학술제 2등
 
